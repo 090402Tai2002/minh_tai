@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2025-01-09",
+        "time": "14:48:23",
+        "image_name": "image_1_processed.jpg",
+        "shrimp_count": 0,
+        "average_length_mm": 0
+    },
+    {
+        "date": "2025-01-09",
+        "time": "14:48:26",
+        "image_name": "image_2_processed.jpg",
+        "shrimp_count": 1,
+        "average_length_mm": 14.47
+    },
+    {
+        "date": "2025-01-09",
+        "time": "14:48:30",
+        "image_name": "image_3_processed.jpg",
+        "shrimp_count": 0,
+        "average_length_mm": 0
+    },
+    {
+        "date": "2025-01-09",
+        "time": "14:48:33",
+        "image_name": "image_4_processed.jpg",
+        "shrimp_count": 0,
+        "average_length_mm": 0
+    },
+    {
+        "date": "2025-01-09",
+        "time": "14:48:36",
+        "image_name": "image_5_processed.jpg",
+        "shrimp_count": 0,
+        "average_length_mm": 0
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "date": "2025-01-10",
+        "time": "18:05:29",
+        "image_name": "image_1_processed.jpg",
+        "shrimp_count": 4,
+        "average_length_mm": 125.9,
+        "feed_data": {
+            "avg_length_mm": 125.89600105305571,
+            "weight": 16.25,
+            "feed_percentage": 3.06,
+            "feed_amount": 0.49725
+        }
+    },
+    {
+        "date": "2025-01-10",
+        "time": "18:05:47",
+        "image_name": "image_2_processed.jpg",
+        "shrimp_count": 4,
+        "average_length_mm": 126.07,
+        "feed_data": {
+            "avg_length_mm": 126.07135703722115,
+            "weight": 16.25,
+            "feed_percentage": 3.06,
+            "feed_amount": 0.49725
+        }
+    },
+    {
+        "date": "2025-01-10",
+        "time": "18:06:04",
+        "image_name": "image_3_processed.jpg",
+        "shrimp_count": 4,
+        "average_length_mm": 126.13,
+        "feed_data": {
+            "avg_length_mm": 126.13445252911384,
+            "weight": 16.25,
+            "feed_percentage": 3.06,
+            "feed_amount": 0.49725
+        }
+    },
+    {
+        "date": "2025-01-10",
+        "time": "18:06:22",
+        "image_name": "image_4_processed.jpg",
+        "shrimp_count": 4,
+        "average_length_mm": 125.67,
+        "feed_data": {
+            "avg_length_mm": 125.6707261439781,
+            "weight": 16.25,
+            "feed_percentage": 3.06,
+            "feed_amount": 0.49725
+        }
+    },
+    {
+        "date": "2025-01-10",
+        "time": "18:06:39",
+        "image_name": "image_5_processed.jpg",
+        "shrimp_count": 4,
+        "average_length_mm": 126.63,
+        "feed_data": {
+            "avg_length_mm": 126.63050066234487,
+            "weight": 16.25,
+            "feed_percentage": 3.06,
+            "feed_amount": 0.49725
+        }
+    }
+]
